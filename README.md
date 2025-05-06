@@ -1,5 +1,5 @@
-# Redes-Sociales
-Sumergete en lo que Administracion tiene para ti ! 
+ ADMI PFLC 
+Sumergete en lo que Admi tiene para ti ! 
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,8 +8,8 @@ Sumergete en lo que Administracion tiene para ti !
     <title>Redes Sociales</title>
     <style>
         body {
-            font-family: monospace, sans-serif;
-            background-color: #f0f0f0;
+           font-family: monospace, sans-serif;
+            background-color:rgb(248, 224, 242);
             text-align: center;
             padding: 50px;
         }
@@ -22,14 +22,14 @@ Sumergete en lo que Administracion tiene para ti !
             padding: 15px 30px;
             font-size: 16px;
             color: white;
-            background-color: #007BFF;
+            background-color:rgb(241, 223, 190);
             border: none;
             border-radius: 8px;
             text-decoration: none;
             transition: background-color 0.3s;
         }
         .button:hover {
-            background-color: #0056b3;
+            background-color:rgb(241, 189, 187);
         }
     </style>
 </head>
