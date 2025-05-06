@@ -22,7 +22,7 @@ Sumergete en lo que Admi tiene para ti !
             padding: 15px 30px;
             font-size: 16px;
             color: white;
-            background-color:rgb(255, 254, 202);
+            background-color:rgb(255, 216, 243)
             border: none;
             border-radius: 8px;
             text-decoration: none;
