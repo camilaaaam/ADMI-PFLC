@@ -1,6 +1,6 @@
 # ADMI PFLC 
 Sumergete en lo que Admi tiene para ti ! 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
