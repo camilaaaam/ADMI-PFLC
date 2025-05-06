@@ -1,6 +1,6 @@
- ADMI PFLC 
+# ADMI PFLC 
 Sumergete en lo que Admi tiene para ti ! 
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +22,7 @@ Sumergete en lo que Admi tiene para ti !
             padding: 15px 30px;
             font-size: 16px;
             color: white;
-             background-color:rgb(255, 216, 243)
+            background-color:rgb(250, 191, 201);
             border: none;
             border-radius: 8px;
             text-decoration: none;
